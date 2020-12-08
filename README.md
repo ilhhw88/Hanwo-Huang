@@ -18,7 +18,7 @@
     
 ### <center> **Projects** </center>
 
-**[QPAl](https://damp-temple-09335.herokuapp.com)** :Social platforn for : People can share their pet photos, discuss their pet training, food, and illness with each other.
+#### **[QPAl](https://damp-temple-09335.herokuapp.com)** :Social platform, People can share their pet photos, discuss their pet training, food, and illness with each other.
 -	Configured URL, project, and apps. Created models and views that include physical, interface, logical, data models for adding, deleting, updating, and read functions.
 -	Utilized Django Auth System features Authentification && Authorization in sign up, login, logout.
 -	Utilized JavaScript, AJAX, and Dom Manipulation for updating content on DOM nodes to achieve features: like(red heart), unlike(hollow heart), comments, follow && unfollow.
@@ -26,8 +26,8 @@
 
 **Environment** :  Django, PIP3, SQLite, Python, HTML, CSS, Javascript, Bootstrap, Font Awesome, 
 AJAX, Heroku, White Noise, Git
------------------------------------------------------------------------------------------------
-**[Social and Economic Development in Chinatown](https://tech-team-chinatown-ipro-497-313.github.io/TECH-team/index.html)**: Create a blog to introduce Chicago Chinatown
+
+#### **[Social and Economic Development in Chinatown](https://tech-team-chinatown-ipro-497-313.github.io/TECH-team/index.html)**: Create a blog to introduce Chicago Chinatown
 - Inserted a YouTube video in the blog to let people visualize Chicago Chinatown.
 -  Built several menus and several pages to show Chicago Chinatown attractions and introduced them with pictures and text. Posted those attractions with respective icons on the map
 -  Deliver an audio on the blog to introduce Chicago Chinatown.
