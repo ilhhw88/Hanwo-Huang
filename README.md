@@ -23,7 +23,7 @@
 -	Configured URL, project, and apps. Created models and views that include physical, interface, logical, data models for adding, deleting, updating, and read functions.
 -	Utilized Django Auth System features Authentification && Authorization in sign up, login, logout.
 -	Utilized JavaScript, AJAX, and Dom Manipulation for updating content on DOM nodes to achieve features: like(red heart), unlike(hollow heart), comments, follow && unfollow.
-- Customized Class-Based View, Header Bar, and deploy the app on the Cloud.
+- Customized Class-Based View, Header Bar, and deployed the app on the Cloud.
 
 **Environment** :  Django, PIP3, SQLite, Python, HTML, CSS, Javascript, Bootstrap, Font Awesome, 
 AJAX, Heroku, White Noise, Git
