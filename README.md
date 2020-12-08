@@ -1,4 +1,4 @@
-# **Hanwo-Huang**           <font size = "2"> Phone：773-575-9637  Email:hanwohuang@gmail.com</font>
+# **Hanwo-Huang**           <font size = "2"> Phone:773-575-9637  Email:hanwohuang@gmail.com</font>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanwo-huang/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilhhw88/)
@@ -26,7 +26,7 @@
 
 **Environment** :  Django, PIP3, SQLite, Python, HTML, CSS, Javascript, Bootstrap, Font Awesome, 
 AJAX, Heroku, White Noise, Git
-
+-----------------------------------------------------------------------------------------------
 **[Social and Economic Development in Chinatown](https://tech-team-chinatown-ipro-497-313.github.io/TECH-team/index.html)**: Create a blog to introduce Chicago Chinatown
 - Inserted a YouTube video in the blog to let people visualize Chicago Chinatown.
 -  Built several menus and several pages to show Chicago Chinatown attractions and introduced them with pictures and text. Posted those attractions with respective icons on the map
