@@ -6,7 +6,7 @@
 
 ### **Technical Skills**
 - Programing language: Java, C#, Python
-- Experience Technologies：ASP.NET Core, MVC5, Entity Framework Core, MS SQL Server 2017, Angular 9, Django, HTML5, CSS3, JavaScript, Bootstrap, Heroku, Visual Studio 2019, Visual Studio Code 2019, Git
+- Experience Technologies：ASP.NET Core, MVC, Entity Framework Core, MS SQL Server 2017, Angular 9, Django, HTML5, CSS3, JavaScript, Bootstrap, Heroku, Visual Studio 2019, Visual Studio Code 2019, Git
 - Testing and Debugging Tools: Postman, MS Test && Moq
 - Others: Date Struction, Algorism, Object Oriented Deisgn
 ### <center> **Work Experience** </Center>
