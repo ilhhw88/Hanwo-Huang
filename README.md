@@ -1,4 +1,4 @@
-# **Hanwo-Huang**           <font size = "2"> Phone:773-575-9637  Email:hanwohuang@gmail.com</font>
+# **Hanwo Huang**           <font size = "2"> Phone:773-575-9637  Email:hanwohuang@gmail.com</font>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanwo-huang/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilhhw88/)
