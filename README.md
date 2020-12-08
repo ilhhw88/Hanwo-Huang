@@ -18,7 +18,7 @@
     
 ## <center> **Projects** </center>
 
-## **[QPAl](https://damp-temple-09335.herokuapp.com)** :Social platform, People can share their pet photos, discuss their pet training, food, and illness with each other.
+### **[QPAl](https://damp-temple-09335.herokuapp.com)** :Social platform, People can share their pet photos, discuss their pet training, food, and illness with each other.
 -	Configured URL, project, and apps. Created models and views that include physical, interface, logical, data models for adding, deleting, updating, and read functions.
 -	Utilized Django Auth System features Authentification && Authorization in sign up, login, logout.
 -	Utilized JavaScript, AJAX, and Dom Manipulation for updating content on DOM nodes to achieve features: like(red heart), unlike(hollow heart), comments, follow && unfollow.
