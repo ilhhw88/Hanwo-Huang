@@ -40,9 +40,3 @@ AJAX, Heroku, White Noise, Git
 
 ### **Education** 
 - Bachelor of Science in Electrical Engineering, **Illinois Institute of Technology**  (Aug 2016 - Jan 2020)
-    
-
-
-
-
--
