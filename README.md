@@ -10,7 +10,7 @@
 - Other: Date Struction, Algorism, Object Oriented Deisgn
 ### <center> **Work Experience** </Center>
 - **[Antra](https://antra.com/)** | Position Title: Full Stack Developer (01/2020-06/2020)
-    -   Skilled in Database Design, Development and tuning, Writing Constraints, Indexes, Views, Stored Procedures, using SQL Server. 
+    -   Skilled in Database Design, Development Writing Constraints, Indexes, Views, Stored Procedures, using SQL Server. 
     -   Experience in working with Entity Framework Core using Database First and Code First Approach. 
     - Hands on developing Restful APIs using ASP.NET Core. 
     - Experience in designing app using Angular 9, TypeScript, Bootstrap, HTML, JavaScript and CSS.
