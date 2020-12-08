@@ -1,4 +1,4 @@
-# **Hanwo Huang**           <font size = "2"> [Phone](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcell-phone_191&psig=AOvVaw3lLctUoHppaNLxLVHAZ1iO&ust=1607480852412000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiVzvuqve0CFQAAAAAdAAAAABAR):773-575-9637  Email:hanwohuang@gmail.com</font>
+# **Hanwo Huang**           <font size = "2"> ![Phone](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcell-phone_191&psig=AOvVaw3lLctUoHppaNLxLVHAZ1iO&ust=1607480852412000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiVzvuqve0CFQAAAAAdAAAAABAR):773-575-9637  Email:hanwohuang@gmail.com</font>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanwo-huang/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ilhhw88/)
