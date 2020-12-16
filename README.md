@@ -24,7 +24,7 @@
     - Utilized Agile methodology achieves work in every week. Report work process in daily meeting to ensure work completing with crucial timeline.
   
     
-## <center> **Projects** </center>
+## <center> Projects </center>
 
 ### **[QPAl](https://damp-temple-09335.herokuapp.com)** :Social platform, People can share their pet photos, discuss their pet training, food, and illness with each other.
 -	Configured URL, project, and apps. Created models and views that include physical, interface, logical, data models for adding, deleting, updating, and read functions.
