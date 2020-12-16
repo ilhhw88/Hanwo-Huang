@@ -6,15 +6,22 @@
 
 ### **Technical Skills**
 - Programing language: Java, C#, Python
-- Technologies：ASP.NET Core, MVC, Entity Framework Core, MS SQL Server 2017, Angular 9, Django, HTML5, CSS3, JavaScript, Bootstrap, Heroku, Visual Studio 2019, Visual Studio Code 2019, Git
+- Technologies && Tools: .NET Core, MVC, Entity Framework Core, SQL Server 2017, Angular 9, Django, Heroku, Git
 - Testing and Debugging Tools: Postman, MS Test && Moq
 - Others: Date Struction, Algorism, Object Oriented Deisgn
-### <center> **Work Experience** </center>
+### <center> Summary </center>
+- Good understanding in Object-Oriented Programing.
+- Experience in design Database using Normalization Principle in SQL server to build tables and using store procedure achieved CRUD application.
+- Involved in backend development, MVC implement using .Net core and .Net Framework, Django.
+- Hands on UI design used bootstrap, Font Awesome, HTML, CSS, JavaScript, AJAX.
+- Experience in Authorization && Authentication Functions implemented JWT token in ASP,NET CORE && Angular.
+### <center> Work Experience </center>
 - **[Antra](https://antra.com/)** | Position: Full Stack Developer (01/2020-06/2020)
-    -   Skilled in Database Design, Development Writing Constraints, Indexes, Views, Stored Procedures, using SQL Server. 
-    -   Experience in working with Entity Framework Core using Database First and Code First Approach. 
-    - Hands on developing Restful APIs using ASP.NET Core. 
-    - Experience in designing app using Angular 9, TypeScript, Bootstrap, HTML, JavaScript and CSS.
+    - Database Design, Development Writing Constraints, Indexes, Views, Stored Procedures for CRUD fuctionalities, using SQL Server. 
+    - Working with Entity Framework Core using Database First and Code First Approach for data retrieving, querying, storage and manipulation. 
+    - Developed Restful APIs using ASP.NET Core and using Postman does APIs testing.
+    - Front-End Single Page Application design using Angular, Typescript, Bootstrap, HTML, CSS.
+    - Utilized Agile methodology achieves work in every week. Report work process in daily meeting to ensure work completing with crucial timeline.
   
     
 ## <center> **Projects** </center>
