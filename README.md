@@ -8,7 +8,7 @@
 - Programing language: Java, C#, Python
 - Technologies && Tools: .NET Core, MVC, Entity Framework Core, SQL Server 2017, Angular 9, Django, Heroku, Git
 - Testing and Debugging Tools: Postman, MS Test && Moq
-- Others: Date Struction, Algorism, Object Oriented Deisgn
+- Others: Data Structure, Algorism, Object Oriented Programming
 ### <center> Summary </center>
 - Good understanding in Object-Oriented Programing.
 - Experience in design Database using Normalization Principle in SQL server to build tables and using store procedure achieved CRUD application.
